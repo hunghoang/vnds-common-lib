@@ -1,0 +1,5 @@
+No more data to read from socket
+Io exception: Connection reset
+Message Io exception: Connection reset
+Io exception: Broken pipe
+Io exception: Software caused connection abort: recv failed

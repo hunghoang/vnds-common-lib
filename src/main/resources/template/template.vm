@@ -1,0 +1,2 @@
+$model.getName() ##
+$date.get('dd/MM')##
